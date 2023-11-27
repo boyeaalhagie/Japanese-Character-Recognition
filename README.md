@@ -15,7 +15,8 @@ A comprehensive feedforward neural network, designed to learn intricate patterns
 A specialized network equipped with convolutional layers for spatial feature extraction, catering to the unique visual characteristics of the Japanese characters.
 Methodology:
 
-### Data Preprocessing: Normalize the pixel values of the grayscale images to ensure consistency in the model inputs. Additionally, explore data augmentation techniques to enhance model generalization.
+### Data Preprocessing:
+Normalize the pixel values of the grayscale images to ensure consistency in the model inputs. Additionally, explore data augmentation techniques to enhance model generalization.
 
 ### Model Development:
 
